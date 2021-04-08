@@ -11,6 +11,8 @@ The details of the movies(title, genre, runtime, rating, poster, etc) are fetche
 
 ## Link to the application
 
+https://the-movie-box.herokuapp.com/
+
 
 ## How to get the API key?
 
